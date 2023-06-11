@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "kashrus-ui",
+    "slug": "kashrus-ui",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "kashrus-ui"
+}
